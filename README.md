@@ -7,7 +7,7 @@
   I create modern websites, design intuitive interfaces, and provide reliable tech solutions.
 </a>
 
-. . .
+
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@
 🖥️ IT Support Specialist with troubleshooting and technical support skills  
 📚 Always learning and improving in technology and design  
 
-. . .
+
 
 ## 💻 Tech Stack
 
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
 </p>
 
-. . .
+
 
 ## 🌍 Connect With Me
 
@@ -66,7 +66,7 @@
   <a href="https://linkedin.com/in/YOURLINK">LinkedIn</a> •
 </p>
 
-. . .
+
 
 ## ✨ Personal Motto
 
